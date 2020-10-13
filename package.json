@@ -1,0 +1,23 @@
+{
+  "name": "tp-digital-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kochlyfe/tp-digital-root.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kochlyfe/tp-digital-root/issues"
+  },
+  "homepage": "https://github.com/Kochlyfe/tp-digital-root#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
