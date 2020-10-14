@@ -30,6 +30,4 @@ function digitalRoots (number) {
   return digitalRoots(sumDigits(number));
 };
 
-console.log(digitalRoots(11));
-
 module.exports = digitalRoots;
